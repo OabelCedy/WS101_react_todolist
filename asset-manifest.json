@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OabelCedy/WS101_react_todolist.git/static/css/main.a0076b34.css",
+    "main.js": "/OabelCedy/WS101_react_todolist.git/static/js/main.80067d05.js",
+    "index.html": "/OabelCedy/WS101_react_todolist.git/index.html",
+    "main.a0076b34.css.map": "/OabelCedy/WS101_react_todolist.git/static/css/main.a0076b34.css.map",
+    "main.80067d05.js.map": "/OabelCedy/WS101_react_todolist.git/static/js/main.80067d05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0076b34.css",
+    "static/js/main.80067d05.js"
+  ]
+}
