@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f83a8a9.css",
-    "main.js": "/static/js/main.928eb2e3.js",
-    "static/media/sea.jpg": "/static/media/sea.0d837a10f84536d862ae.jpg",
-    "index.html": "/index.html",
-    "main.7f83a8a9.css.map": "/static/css/main.7f83a8a9.css.map",
-    "main.928eb2e3.js.map": "/static/js/main.928eb2e3.js.map"
+    "main.css": "/OabelCedy/WS101_landing_page.git/static/css/main.b72df93d.css",
+    "main.js": "/OabelCedy/WS101_landing_page.git/static/js/main.928eb2e3.js",
+    "static/media/sea.jpg": "/OabelCedy/WS101_landing_page.git/static/media/sea.0d837a10f84536d862ae.jpg",
+    "index.html": "/OabelCedy/WS101_landing_page.git/index.html",
+    "main.b72df93d.css.map": "/OabelCedy/WS101_landing_page.git/static/css/main.b72df93d.css.map",
+    "main.928eb2e3.js.map": "/OabelCedy/WS101_landing_page.git/static/js/main.928eb2e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f83a8a9.css",
+    "static/css/main.b72df93d.css",
     "static/js/main.928eb2e3.js"
   ]
 }
