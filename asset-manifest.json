@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/OabelCedy/WS101_landing_page.git/static/css/main.b72df93d.css",
-    "main.js": "/OabelCedy/WS101_landing_page.git/static/js/main.928eb2e3.js",
-    "static/media/sea.jpg": "/OabelCedy/WS101_landing_page.git/static/media/sea.0d837a10f84536d862ae.jpg",
-    "index.html": "/OabelCedy/WS101_landing_page.git/index.html",
-    "main.b72df93d.css.map": "/OabelCedy/WS101_landing_page.git/static/css/main.b72df93d.css.map",
-    "main.928eb2e3.js.map": "/OabelCedy/WS101_landing_page.git/static/js/main.928eb2e3.js.map"
+    "main.css": "/WS101_react_todolist/static/css/main.a0076b34.css",
+    "main.js": "/WS101_react_todolist/static/js/main.30c6059f.js",
+    "index.html": "/WS101_react_todolist/index.html",
+    "main.a0076b34.css.map": "/WS101_react_todolist/static/css/main.a0076b34.css.map",
+    "main.30c6059f.js.map": "/WS101_react_todolist/static/js/main.30c6059f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b72df93d.css",
-    "static/js/main.928eb2e3.js"
+    "static/css/main.a0076b34.css",
+    "static/js/main.30c6059f.js"
   ]
 }
